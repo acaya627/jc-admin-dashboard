@@ -1,0 +1,5 @@
+{
+  "name": "JC Admin - Player Management",
+  "description": "A comprehensive dashboard for managing player accounts, viewing dashboards, tracking financial logs, and auditing profile changes.",
+  "requestFramePermissions": []
+}
